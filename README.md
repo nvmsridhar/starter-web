@@ -5,5 +5,6 @@
   Introduction text:this repository is for showing how Git
   
 ## Purpose
-
+  Added purpose
 ## Deployment
+  Deployment steps
